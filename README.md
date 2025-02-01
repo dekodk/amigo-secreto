@@ -11,4 +11,4 @@ HTML, CSS e Javascript!
 
 📌 Funcionalidades
 
-✅ Cadastro de participantes 📋✅ Sorteio automático 🔄✅ Interface amigável 🎨✅
+✅ Cadastro de participantes 📋✅ Sorteio automático 🔄✅ Interface amigável 🎨
