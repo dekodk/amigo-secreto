@@ -1,6 +1,6 @@
 🎉 Challenge Amigo Secreto
 
-Bem-vindo ao projeto Challenge Amigo Secreto! Me chamo  Welington 🚀 e este projeto foi desenvolvido em JavaScript para ajudar na organização de sorteios de amigo secreto de forma fácil e divertida. 🤝🎁
+Bem-vindo ao projeto Challenge Amigo Secreto! Me chamo  Welington 🚀 e este projeto foi desenvolvido em Javaccript para ajudar na organização de sorteios de amigo secreto de forma fácil e divertida. 🤝🎁
 
 🚀 Tecnologias Utilizadas
 
